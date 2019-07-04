@@ -10,5 +10,6 @@ int main(){
         cout << "this is a" << a << endl;
     }
     cout << a << endl;
+    cout << "is it work?"<<endl;
     return 0;
 }
